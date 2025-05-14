@@ -1,7 +1,6 @@
 🏡 House Prices Prediction
+
 📊 Predição de Preços de Casas com Machine Learning
-📌 Subtitle
-Detailed Real Estate Data for Predicting House Prices and Analyzing Market Trends
 
 📄 Descrição
 Este projeto utiliza técnicas de ciência de dados e aprendizado de máquina para prever os preços de venda de imóveis com base em características detalhadas de propriedades. Utilizando o dataset House Prices, com informações de mais de 21.000 casas, o objetivo é entender os principais fatores que influenciam o valor dos imóveis e construir modelos preditivos robustos para estimar preços com precisão.
