@@ -8,11 +8,14 @@ Este projeto utiliza técnicas de ciência de dados e aprendizado de máquina pa
 🗂️ Dataset
 O dataset utilizado contém 21.613 registros e oferece uma ampla variedade de informações, permitindo análises exploratórias, visualizações de dados e aplicações de modelagem preditiva.
 Principais categorias de dados:
+
 🔹 Informações Gerais:
 * id: Identificador único da propriedade 
-* date: Data da venda 
+* date: Data da venda
+
 🔹 Detalhes de Preço:
-* price: Preço de venda do imóvel 
+* price: Preço de venda do imóvel
+
 🔹 Características da Propriedade:
 * bedrooms: Número de quartos 
 * bathrooms: Número de banheiros (banheiros parciais são representados como frações) 
@@ -22,15 +25,18 @@ Principais categorias de dados:
 * waterfront: Vista para a orla (1 = sim, 0 = não) 
 * view: Qualidade da vista (escala ordinal) 
 * condition: Condição geral do imóvel 
-* grade: Avaliação da construção e design (escala de 1 a 13) 
+* grade: Avaliação da construção e design (escala de 1 a 13)
+  
 🔹 Métricas Adicionais:
 * sqft_above: Área acima do solo 
 * sqft_basement: Área do porão 
 * yr_built: Ano de construção 
-* yr_renovated: Ano da última reforma 
+* yr_renovated: Ano da última reforma
+  
 🔹 Localização:
 * zipcode: Código postal 
-* lat & long: Coordenadas geográficas 
+* lat & long: Coordenadas geográficas
+  
 🔹 Comparações com Vizinhança:
 * sqft_living15: Média da área útil das 15 casas mais próximas 
 * sqft_lot15: Média do tamanho do lote das 15 casas mais próximas 
